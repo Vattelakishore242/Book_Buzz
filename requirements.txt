@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+scikit-surprise
+tkcalendar
+requests
+pip install -r requirements.txt
