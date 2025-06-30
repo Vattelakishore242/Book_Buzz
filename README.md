@@ -76,5 +76,4 @@ A comprehensive **Library Management System** and **Book Recommendation Engine**
 
 ---
 
-## 🗃️ File Structure
 
