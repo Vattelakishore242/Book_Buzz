@@ -65,4 +65,4 @@ Simply run:
 bash
 Copy
 Edit
-python main.py
+python actual.py
